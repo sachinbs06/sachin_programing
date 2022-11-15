@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="sdbms.StudentManagementSystem"/>
+    <fullyQualifiedTypeName name="sdbms1.StudentManagementSystem1"/>
+    <fullyQualifiedTypeName name="sdbms1.StudentManagementSystemImpl1"/>
+    <fullyQualifiedTypeName name="normalCalcalotor.StudentOperation"/>
+    <fullyQualifiedTypeName name="normalCalcalotor.StudentOperationImps"/>
+    <fullyQualifiedTypeName name="java.util.LinkedHashMap"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="sdbms.StudentNotFoundException"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.beans.Statement"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+</qualifiedTypeNameHistroy>

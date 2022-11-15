@@ -1,0 +1,12 @@
+package statingrogram;
+
+class first {
+	int age = 20;
+	
+	String name = "jerry";
+	
+	System.out.println(age);
+	
+
+	}
+
