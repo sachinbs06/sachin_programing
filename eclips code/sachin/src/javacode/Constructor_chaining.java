@@ -1,0 +1,8 @@
+package javacode;
+
+class Student{
+	
+	
+	
+
+}
